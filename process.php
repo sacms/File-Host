@@ -12,7 +12,7 @@ $data = json_decode($con);
 
 $error = $data->error;
 
-        if( $error != 'false'){
+        if( $error != 'false' ){
             $website = 'https://'.$_SERVER['HTTP_HOST'].'/'; 
             $id = $data->file_id;
             $view = $website.'view/'.$id; 
