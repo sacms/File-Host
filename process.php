@@ -10,7 +10,7 @@ if( !empty($_POST['my-link']) ){
         
         $username = "Shakib Ahmed"; // Enter Your Name
         
-        $con = file_get_contents($uri.'?user='.$username.'&id='.$link.'');
+        $con = file_get_contents('.$uri.'?user='.$username.'&id='.$link.'');
 
 $data = json_decode($con); 
 

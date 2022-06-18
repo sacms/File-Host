@@ -7,7 +7,7 @@ $id = $_GET['fid'];
 
 $uri = base64_decode('aHR0cHM6Ly9kbC5za3Yub25lL2FwaS9qc29uLnBocA==');
 
-$con = file_get_contents($uri.'?id='.$id.'');
+$con = file_get_contents('.$uri.'?id='.$id.'');
 
 $data = json_decode($con); 
 
