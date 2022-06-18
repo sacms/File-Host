@@ -35,7 +35,7 @@ $error = $data->error;
 			<div style="display:black;">
 			<div class="well p-2">
 				<h3 style="font-size:16px;" class="badge badge-success">File Link</h3>&nbsp;&nbsp;&nbsp;&nbsp;
-				<a  style="font-size:18px;" href="'.$short_link.'">'.$view.'</a>
+				<a  style="font-size:18px;" href="'.$view.'">'.$view.'</a>
 				<br>
 				<h3 style="font-size:16px;" class="badge badge-success">Embed Link</h3>&nbsp;&nbsp;&nbsp;&nbsp;
 				<a  style="font-size:18px;" href="'.$website.'embed/'.$id.'">'.$website.'embed/'.$id.'</a>
