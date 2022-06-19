@@ -6,15 +6,17 @@ It's File Protector PHP Script maked by Shakib Ahmed
 
 https://file-host.herokuapp.com
 
-Mediafire file demo
+# File demo
+
+Mediafire
 
 https://file-host.herokuapp.com/view/7496013852
 
-Yandex Disk file demo 
+Yandex disk
 
 https://file-host.herokuapp.com/view/3542690718
 
-Google Drive file demo
+Google Drive
 
 https://file-host.herokuapp.com/view/3507914862
 
