@@ -13,4 +13,4 @@ $title = $name.' | '.$sitename;
 </head>
 
 <body class="bg-light">
-<div class="navbar-filmy"><div class="logo" align="center"><a href="/"><?= $sitename ?> | Fast Download</a></div><div class="userplus" align="center"><a class="btnplus " href="/login.php"><i class="fa fa-user"></i>&nbsp;Login</a>&nbsp;&nbsp;<a class="btnplus " href="/register.php"><i class="fa fa-user"></i>&nbsp;Signup</a></div></div>
+<div class="navbar-filmy"><div class="logo" align="center"><a href="/"><?= $sitename ?> | Fast Download</a></div><div class="userplus" align="center"><a class="btnplus " href="/"><i class="fa fa-user"></i>&nbsp;Login</a>&nbsp;&nbsp;<a class="btnplus " href="/"><i class="fa fa-user"></i>&nbsp;Signup</a></div></div>
