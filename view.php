@@ -5,15 +5,13 @@ if (!empty($_GET['id'])) {
 
 $id = $_GET['fid'];
 
-$uri = base64_decode('aHR0cHM6Ly9kbC5zaGFraWIuY3lvdS9hcGkvanNvbi5waHA=');
-
-$con = file_get_contents('.$uri.'?id='.$id.'');
+$con = file_get_contents('https://dl.shakib.cyou/api/json.php?id='.$id.'');
 
 $data = json_decode($con); 
 
 $name = $data->title; // File title
 
-$name = str_replace(base64_decode('ZGwuc2t2Lm9uZQ=='),$_SERVER['HTTP_HOST'],$data->link); // File link
+$name = str_replace('dl.shakib.cyou',$_SERVER['HTTP_HOST'],$data->link); // File link
 
 $size = $data->size; // File size
 
