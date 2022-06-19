@@ -6,7 +6,7 @@ if( !empty($_POST['my-link']) ){
  
         $link = $_POST['my-link']; 
         
-        $uri = base64_decode('aHR0cHM6Ly9kbC5za3Yub25lL2FwaS9jcmVhdGUucGhw');
+        $uri = base64_decode('aHR0cHM6Ly9kbC5zaGFraWIuY3lvdS9hcGkvY3JlYXRlLnBocA==');
         
         $username = "Shakib Ahmed"; // Enter Your Name
         
@@ -35,7 +35,7 @@ $error = $data->error;
 			<div style="display:black;">
 			<div class="well p-2">
 				<h3 style="font-size:16px;" class="badge badge-success">File Link</h3>&nbsp;&nbsp;&nbsp;&nbsp;
-				<a  style="font-size:18px;" href="'.$view.'">'.$view.'</a>
+				<a  style="font-size:18px;" href="'.$short_link.'">'.$view.'</a>
 				<br>
 				<h3 style="font-size:16px;" class="badge badge-success">Embed Link</h3>&nbsp;&nbsp;&nbsp;&nbsp;
 				<a  style="font-size:18px;" href="'.$website.'embed/'.$id.'">'.$website.'embed/'.$id.'</a>
