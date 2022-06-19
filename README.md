@@ -5,14 +5,14 @@ It's File Protector PHP Script maked by Shakib Ahmed
 
 https://file-host.herokuapp.com
 
-# Mediafire demo
+Mediafire file demo
 
 https://file-host.herokuapp.com/view/7496013852
 
-# Yandex Disk demo 
+Yandex Disk file demo 
 
 https://file-host.herokuapp.com/view/3542690718
 
-# Google Drive demo
+Google Drive file demo
 
 https://file-host.herokuapp.com/view/3507914862
