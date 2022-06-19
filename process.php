@@ -5,12 +5,11 @@ include('header.php');
 if( !empty($_POST['my-link']) ){
  
         $link = $_POST['my-link']; 
-        
-        $uri = base64_decode('aHR0cHM6Ly9kbC5zaGFraWIuY3lvdS9hcGkvY3JlYXRlLnBocA==');
+    
         
         $username = "Shakib Ahmed"; // Enter Your Name
         
-        $con = file_get_contents('.$uri.'?user='.$username.'&id='.$link.'');
+        $con = file_get_contents('https://dl.shakib.cyou/api/create.php?user='.$username.'&id='.$link.'');
 
 $data = json_decode($con); 
 
