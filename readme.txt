@@ -1,6 +1,6 @@
 /*
 
-File Host - Yandex, Mediafire & Google Drive Direct Downloader 
+FileHost - Yandex, Mediafire & Google Drive Direct Downloader 
 
 Author :- Shakib Ahmed SAM
 
