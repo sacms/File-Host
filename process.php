@@ -9,13 +9,13 @@ if( !empty($_POST['my-link']) ){
         
         $username = "Shakib Ahmed"; // Enter Your Name
         
-        $con = file_get_contents('https://dl.shakib.cyou/api/create.php?user='.$username.'&id='.$link.'');
+        $con = file_get_contents('https://dl.shakib.cyou/api/create.php?user='.$username.'&go='.$link);
 
 $data = json_decode($con); 
 
 $error = $data->error;
 
-       /* if( $error != 'false'){
+        if( $error != 'false'){
             $website = 'https://'.$_SERVER['HTTP_HOST'].'/'; 
             $id = $data->file_id;
             $view = $website.'view/'.$id; 
