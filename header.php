@@ -1,5 +1,5 @@
 <?php
-$sitename = "FileHost";
+$sitename = "File Host";
 if (empty($name)) {
 $title = $sitename.' | Yandex Disk, MediaFire & Google Drive File Downloader';
 } else {
