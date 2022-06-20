@@ -22,7 +22,7 @@ Hello there,
 
 You can use it for easyly 
 
-First you can edit process.php line no 11 
+First you can edit process.php line no 10
 
 Modify "Shakib Ahmed" to "Your Name"
 
