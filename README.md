@@ -27,3 +27,8 @@ Facebook :- https://facebook.com/expertskb
 Email :- hello@shakib.cyou
 
 URL :- https://shakib.cyou
+
+
+# Installation
+
+https://file-host.herokuapp.com/readme.txt
