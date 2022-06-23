@@ -43,13 +43,13 @@ $error = $data->error;
 			<br>
 </div></div></div><br><br>';
 	   } else {
-        header("location: /");
+        header("location: /?wrong");
     }
     
     }
         
     else {
-        header("location: /");
+        header("location: /?empty");
     }
 
 include('footer.php');
