@@ -50,8 +50,8 @@ $error = $data->error;
 			</div>
 			<br>
 </div></div></div><br><br>';
-       
-    } else {
+	}}       
+ /*   } else {
         header("location: /");
     }
     
@@ -60,7 +60,7 @@ $error = $data->error;
     else {
         header("location: /");
     }
-
+*/
 include('footer.php');
 
 ?>
