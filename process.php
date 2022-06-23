@@ -16,8 +16,7 @@ if( !empty($_POST['my-link']) ){
     $con = file_get_contents($link);
 
 $data = json_decode($con); 
-
-echo $error = $data->error;
+ $error = $data->error;
 
         if ($error == 'false') {
             $website = 'https://'.$_SERVER['HTTP_HOST'].'/'; 
