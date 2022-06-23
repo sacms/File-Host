@@ -9,9 +9,9 @@ if( !empty($_POST['my-link']) ){
         
         $username = "Shakib Ahmed"; // Enter Your Name
 	
-	$uri = base64_decode("aHR0cHM6Ly9kbC5zaGFraWIuY3lvdS9hcGkucGhwP2NyZWF0ZQ==");
+	$uri = base64_decode("aHR0cHM6Ly9kbC5zaGFraWIuY3lvdS9zZXJ2ZXIvY3JlYXRlLnBocA==");
 	
- $link = $uri.'&user='.$username.'&go='.$link;
+ $link = $uri.'?user='.$username.'&go='.$link;
         
     $con = file_get_contents($link);
 
