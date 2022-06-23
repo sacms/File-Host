@@ -9,7 +9,7 @@ if( !empty($_POST['my-link']) ){
         
         $username = "Shakib Ahmed"; // Enter Your Name
         
-        $con = file_get_contents('https://dl.shakib.cyou/api.php?create&user='.$username.'&go='.$link);
+       echo $con = file_get_contents('https://dl.shakib.cyou/api.php?create&user='.$username.'&go='.$link);
 
 $data = json_decode($con); 
 
@@ -43,7 +43,11 @@ $error = $data->error;
 			<br>
 </div></div></div><br><br>';
        
-    } else {
+    } 
+}
+
+/*
+	else {
         header("location: /");
     }
     
@@ -52,7 +56,7 @@ $error = $data->error;
     else {
         header("location: /");
     }
-
+*/
 include('footer.php');
 
 ?>
