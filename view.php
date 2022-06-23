@@ -5,7 +5,7 @@ if (!empty($_GET['id'])) {
 
 $id = $_GET['id'];
 
- $con = file_get_contents('https://dl.shakib.cyou/api/json.php?id='.$id);
+ $con = file_get_contents('https://dl.shakib.cyou/api.php?json&id='.$id);
 
  $data = json_decode($con); 
 
