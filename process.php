@@ -8,16 +8,8 @@ if( !empty($_POST['my-link']) ){
     
         
         $username = "Shakib Ahmed"; // Enter Your Name
-	
-	function sacms($url){
-    curl_setopt($ch=curl_init(), CURLOPT_URL, $url);
-    curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
-    $response = curl_exec($ch);
-    curl_close($ch);
-    return $response;
-}
         
-       echo  $con = sacms('https://dl.shakib.cyou/api.php?create&user='.$username.'&go='.$link.'');
+       echo  $con = file_get_contents('https://dl.shakib.cyou/api.php?create&user='.$username.'&go='.$link.'');
 
 $data = json_decode($con); 
 
