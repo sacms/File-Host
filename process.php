@@ -4,16 +4,16 @@ include('header.php');
  
 if( !empty($_POST['my-link']) ){
  
-        $link = $_POST['my-link']; 
+      echo  $link = $_POST['my-link']; 
     
         
-        $username = "Shakib Ahmed"; // Enter Your Name
+      echo  $username = "Shakib Ahmed"; // Enter Your Name
         
-       $con = file_get_contents('https://dl.shakib.cyou/api.php?create&user='.$username.'&go='.$link.'');
+     echo  $con = file_get_contents('https://dl.shakib.cyou/api.php?create&user='.$username.'&go='.$link.'');
 
 $data = json_decode($con); 
 
-$error = $data->error;
+echo $error = $data->error;
 
         if ($error == 'false') {
             $website = 'https://'.$_SERVER['HTTP_HOST'].'/'; 
@@ -42,7 +42,9 @@ $error = $data->error;
 			</div>
 			<br>
 </div></div></div><br><br>';
-	   } else {
+	}}
+
+ /*} else {
         header("location: /?wrong");
     }
     
@@ -51,7 +53,7 @@ $error = $data->error;
     else {
         header("location: /?empty");
     }
-
+*/
 include('footer.php');
 
 ?>
