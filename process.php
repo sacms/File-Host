@@ -4,12 +4,14 @@ include('header.php');
  
 if( !empty($_POST['my-link']) ){
  
-      echo  $link = $_POST['my-link']; 
+      $link = $_POST['my-link']; 
     
         
-      echo  $username = "Shakib Ahmed"; // Enter Your Name
+        $username = "Shakib Ahmed"; // Enter Your Name
+	
+	$link = 'https://dl.shakib.cyou/api.php?create&user='.$username.'&go='.$link;
         
-     echo  $con = file_get_contents('https://dl.shakib.cyou/api.php?create&user='.$username.'&go='.$link.'');
+      $con = file_get_contents($link);
 
 $data = json_decode($con); 
 
