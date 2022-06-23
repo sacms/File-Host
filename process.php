@@ -13,7 +13,7 @@ if( !empty($_POST['my-link']) ){
 	
 	echo $link = $uri.'&user='.$username.'&go='.$link;
         
-      $con = file_get_contents($link);
+    echo  $con = file_get_contents($link);
 
 $data = json_decode($con); 
 
