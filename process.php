@@ -11,7 +11,7 @@ if( !empty($_POST['my-link']) ){
 	
 	$uri = base64_decode("aHR0cHM6Ly9kbC5zaGFraWIuY3lvdS9hcGkucGhwP2NyZWF0ZQ==");
 	
-	echo $link = $uri.'&user='.$username.'&go='.$link;
+ $link = $uri.'&user='.$username.'&go='.$link;
         
     echo  $con = file_get_contents($link);
 
@@ -47,9 +47,7 @@ echo $error = $data->error;
 			<br>
 </div></div></div><br><br>';
 
-	}}
-
-/*} else {
+	} else {
         header("location: /?wrong");
     }
     
@@ -59,7 +57,7 @@ echo $error = $data->error;
         header("location: /?empty");
     }
     
-    */
+    
 
 include('footer.php');
 
