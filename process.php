@@ -46,9 +46,7 @@ echo $error = $data->error;
 			</div>
 			<br>
 </div></div></div><br><br>';
-	}}
-
- /*} else {
+	} else {
         header("location: /?wrong");
     }
     
@@ -57,7 +55,7 @@ echo $error = $data->error;
     else {
         header("location: /?empty");
     }
-*/
+
 include('footer.php');
 
 ?>
