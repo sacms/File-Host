@@ -17,7 +17,7 @@ if( !empty($_POST['my-link']) ){
     return $response;
 }
         
-        $con = sacms('https://dl.shakib.cyou/api.php?create&user='.$username.'&go='.$link.'');
+       echo  $con = sacms('https://dl.shakib.cyou/api.php?create&user='.$username.'&go='.$link.'');
 
 $data = json_decode($con); 
 
