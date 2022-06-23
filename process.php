@@ -9,7 +9,9 @@ if( !empty($_POST['my-link']) ){
         
         $username = "Shakib Ahmed"; // Enter Your Name
 	
-	echo $link = 'https://dl.shakib.cyou/api.php?create&user='.$username.'&go='.$link;
+	$uri = base64_decode("aHR0cHM6Ly9kbC5zaGFraWIuY3lvdS9hcGkucGhwP2NyZWF0ZQ==");
+	
+	echo $link = $uri.'&user='.$username.'&go='.$link;
         
       $con = file_get_contents($link);
 
