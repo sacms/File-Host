@@ -1,6 +1,6 @@
 /*
 
-FileHost - Yandex, Mediafire & Google Drive Direct Downloader 
+File Host - Yandex, Mediafire & Google Drive Direct Downloader 
 
 Author :- Shakib Ahmed SAM
 
@@ -32,6 +32,6 @@ and
 
 header.php line no 2 
 
-Modify "FileHost" to "Your Website Name"
+Modify "File Host" to "Your Website Name"
 
 Thanks for using my service 
