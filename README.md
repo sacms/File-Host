@@ -2,6 +2,20 @@
 
 It's File Protector PHP Script maked by Shakib Ahmed
 
+# Futures
+
+1. Mediafire.com
+
+2. Google.com
+
+3. Yandex.com
+
+4. Send.cm
+
+5. Bayfiles.com
+
+6. Anonfiles.com
+
 # Demo
 
 https://file-host.herokuapp.com
