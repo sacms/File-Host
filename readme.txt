@@ -2,7 +2,7 @@
 
 File Host - Yandex, Mediafire & Google Drive Direct Downloader 
 
-Author :- Shakib Ahmed SAM
+Author :- Shakib Ahmed
 
 Email :- shakibwap@yahoo.com
 
