@@ -20,9 +20,11 @@ It's File Protector PHP Script maked by Shakib Ahmed
 
 https://file-host.herokuapp.com
 
-# Contact Me
+# Contact Us
 
 Facebook :- https://facebook.com/expertskb
+
+Telegram :- https://t.me/expertskb
 
 Email :- hello@shakib.cyou
 
