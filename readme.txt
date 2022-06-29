@@ -2,19 +2,9 @@
 
 File Host - Yandex, Mediafire & Google Drive Direct Downloader 
 
-Author :- Shakib Ahmed
-
-Email :- shakibwap@yahoo.com
-
-URI :- https://shakib.cyou
-
-Facebook :- https://facebook.com/ExpertSKB
-
-Telegram :- https://t.me/ExpertSKB
-
 Created Date :- 19 June 2022 
 
-Last Modify :- 25 June 2022
+Last Modify :- 29 June 2022
 
 */
 
