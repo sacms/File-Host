@@ -15,6 +15,8 @@ It's File Protector PHP Script maked by Shakib Ahmed
 5. Bayfiles.com
 
 6. Anonfiles.com
+ 
+7. Dropbox.com
 
 # Demo
 
