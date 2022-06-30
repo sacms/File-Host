@@ -18,8 +18,8 @@ function sacms($url) {
 if (!empty($_GET['id'])) {
 
 $id = $_GET['id'];
-$uri = base64_decode('aHR0cHM6Ly9kbC5zaGFraWIuY3lvdS9hcGkucGhwP2pzb24=');
-echo $con = sacms($uri.'&id='.$id);
+$uri = base64_decode('aHR0cHM6Ly9kbC5zaGFraWIuY3lvdS9zZXJ2ZXIvanNvbi5waHA/');
+echo $con = sacms($uri.'id='.$id);
 
  $data = json_decode($con); 
 
