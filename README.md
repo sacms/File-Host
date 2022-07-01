@@ -18,6 +18,8 @@ It's File Protector PHP Script maked by Shakib Ahmed
  
 7. Dropbox.com
 
+8. Zippyshare.com
+
 # Demo
 
 https://file-host.herokuapp.com
