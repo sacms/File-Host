@@ -4,8 +4,6 @@ File Host - Yandex, Mediafire & Google Drive Direct Downloader
 
 Created Date :- 19 June 2022 
 
-Last Modify :- 30 June 2022
-
 */
 
 
