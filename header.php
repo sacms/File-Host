@@ -31,3 +31,6 @@ $title = $name.' | '.$sitename;
   <?= $sitename ?> | Fast Download</a></div><div class="userplus" align="center">
   <a class="btnplus " href="/"><i class="fa fa-user"></i>&nbsp;Login</a>&nbsp;&nbsp;<a class="btnplus " href="/">
   <i class="fa fa-user"></i>&nbsp;Signup</a></div></div>
+  
+  
+  <center><h2> <a href='//github.com/sacms/file-Host'> Download Source Code </a></h2></center>
