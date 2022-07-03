@@ -25,7 +25,9 @@ $con = sacms($uri.'id='.$id);
 
 $name = $data->title; // File title
 
-$link = str_replace('dl.shakib.cyou',$_SERVER['HTTP_HOST'],$data->link); // File link
+$idt = base64_decode('ZGwuc2hha2liLmN5b3U=');
+
+$link = str_replace($idt,$_SERVER['HTTP_HOST'],$data->link); 
 
 $size = $data->size; // File size
 
