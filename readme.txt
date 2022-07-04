@@ -24,6 +24,6 @@ Modify "File Host" to "Your Website Name"
 
 And
 
-You must remove 34, 35 & 36 lines in header.php
+Your must remove 34, 35 & 36 lines in header.php
 
 Thanks for using my service 
