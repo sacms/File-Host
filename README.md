@@ -20,6 +20,8 @@ It's File Protector PHP Script maked by Shakib Ahmed
 
 8. Zippyshare.com
 
+9. Openload.cc
+
 # Demo
 
 https://file-host.herokuapp.com
