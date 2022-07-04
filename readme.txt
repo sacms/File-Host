@@ -16,10 +16,14 @@ First you can edit process.php line no 10
 
 Modify "Shakib Ahmed" to "Your Name"
 
-and 
+&
 
 header.php line no 2 
 
 Modify "File Host" to "Your Website Name"
+
+And
+
+You must remove 34, 35 & 36 lines in header.php
 
 Thanks for using my service 
