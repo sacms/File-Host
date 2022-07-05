@@ -58,7 +58,7 @@ $data = json_decode($con);
 				<br>
 			</div>
 			<br>
-</div></div></div><br><br>';
+</div></div></div></div></div></div><br>';
 
 	} else {
         header("location: /?wrong");
@@ -70,7 +70,7 @@ $data = json_decode($con);
         header("location: /?empty");
     }
     
-    
+    echo "</div><br><br>";
 
 include('footer.php');
 
