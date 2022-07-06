@@ -10,7 +10,7 @@ It's File Protector PHP Script maked by Shakib Ahmed
 
 3. Yandex.com
 
-4. Send.cm
+4. Send.cm (Only video supported)
 
 5. Bayfiles.com
 
