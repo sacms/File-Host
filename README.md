@@ -22,6 +22,10 @@ It's File Protector PHP Script maked by Shakib Ahmed
 
 9. Openload.cc
 
+# Join Telegram Channel
+
+https://t.me/fhserver
+
 # Demo
 
 https://file-host.herokuapp.com
