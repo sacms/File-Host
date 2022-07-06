@@ -22,6 +22,10 @@ It's File Protector PHP Script maked by Shakib Ahmed
 
 9. Openload.cc
 
+10. Megaupload.nz
+
+11. Letsupload.cc
+
 # Join Telegram Channel
 
 https://t.me/fhserver
