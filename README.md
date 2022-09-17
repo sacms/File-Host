@@ -26,6 +26,19 @@ It's File Protector PHP Script maked by Shakib Ahmed
 
 11. Letsupload.cc
 
+
+# Error Fix
+
+Hello dear, you can see this script not working.
+
+When you create a new link then automatic return homepage.
+
+If you fix it this then you can modify only two page
+
+1. view.php line no 22 { $con = sacms($uri.'id='.$id); } to { $con = file_get_contents($uri.'id='.$id); }
+
+2. process.php  line no 29 { $con = sacms($link); } to { $con = file_get_contents($link); }
+
 # Join Telegram Channel
 
 https://t.me/fhserver
