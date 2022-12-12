@@ -53,11 +53,11 @@ Facebook :- https://facebook.com/ohskb
 
 Telegram :- https://t.me/expertskb
 
-Email :- hello@shakib.cyou
+Email :- ohskb@yahoo.com
 
 URL :- https://shakib.cyou
 
 
 # Installation
 
-https://file-host.herokuapp.com/readme.txt
+https://raw.githubusercontent.com/sacms/File-Host/main/readme.txt
