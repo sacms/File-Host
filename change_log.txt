@@ -1,0 +1,3 @@
+v7.2
+
+CSS problem fixed and javascript
