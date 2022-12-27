@@ -1,8 +1,8 @@
 /*
 
-File Host - Yandex, Mediafire & Google Drive Direct Downloader 
+File Host - Yandex Disk, AnonFiles, BayFiles, Letsupload, Workupload, Filechan, Mediafire, & Google Drive Direct Downloader 
 
-Created Date :- 19 June 2022 
+Created Date :- 17 June 2022 
 
 */
 
