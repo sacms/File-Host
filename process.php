@@ -7,7 +7,7 @@ if( !empty($_POST['my-link']) ){
       $link = $_POST['my-link']; 
     
         
-        $username = "Shakib Ahmed"; // Enter Your Name
+        $username = "Example"; // Enter Your Name
 	
 	$uri = base64_decode("aHR0cHM6Ly9taXlhZHJpdmUubXkuaWQvc2VydmVyL2NyZWF0ZS5waHA=");
 	
