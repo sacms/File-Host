@@ -42,14 +42,7 @@ https://miyadrive.my.id/
 
 # Contact Us
 
-Facebook :- https://facebook.com/ohskb
-
 Telegram :- https://t.me/expertskb
-
-Email :- ohskb@yahoo.com
-
-URL :- https://shakib.cyou
-
 
 # Installation Guideline
 
