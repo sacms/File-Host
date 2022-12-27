@@ -14,7 +14,7 @@ You can use it for easyly
 
 First you can edit process.php line no 10
 
-Modify "Shakib Ahmed" to "Your Name"
+Modify "Example" to "Your Name"
 
 &
 
@@ -26,4 +26,4 @@ And
 
 Your must remove 34, 35 & 36 lines in header.php
 
-Thanks for using my service 
+Thanks for using our service 
