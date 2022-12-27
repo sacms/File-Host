@@ -1,6 +1,6 @@
 # File-Host
 
-It's File Protector PHP Script maked by Shakib Ahmed
+This is file direct downloader PHP Script
 
 # Futures
 
