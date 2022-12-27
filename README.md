@@ -6,7 +6,7 @@ This is file direct downloader PHP Script
 
 1. Mediafire.com
 
-2. Google.com
+2. Google.com (Only drive supported)
 
 3. Yandex.com
 
@@ -26,7 +26,7 @@ This is file direct downloader PHP Script
 
 11. Letsupload.cc
 
-12. Workupload.com
+12. HotFile.io
 
 13. Filechan.org
 
