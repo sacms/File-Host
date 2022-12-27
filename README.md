@@ -26,6 +26,10 @@ It's File Protector PHP Script maked by Shakib Ahmed
 
 11. Letsupload.cc
 
+12. Workupload.com
+
+13. Filechan.org
+
 
 # Error Fix
 
