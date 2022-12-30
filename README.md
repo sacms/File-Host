@@ -1,4 +1,4 @@
-# File-Host
+# File Host
 
 This is file direct downloader PHP Script
 
