@@ -1,1 +1,1 @@
-font awsome
+font awesome
