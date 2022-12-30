@@ -30,6 +30,12 @@ This is file direct downloader PHP Script
 
 13. Filechan.org
 
+# Proxy Server
+
+Hongkong
+
+China
+
 # Contributors
 
 @imsam304
