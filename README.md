@@ -32,7 +32,7 @@ This is file direct downloader PHP Script
 
 # Proxy Server
 
-Your Country
+Your Country (like: bangladesh, india & pakistan etc)
 
 Hongkong
 
