@@ -2,7 +2,7 @@
 
 This is file direct downloader PHP Script
 
-# Futures
+# Supported Hosts / Server 
 
 1. Mediafire.com
 
@@ -37,6 +37,10 @@ Your Country (like: bangladesh, india & pakistan etc)
 Hongkong
 
 China
+
+# Documentary
+
+https://github.com/sacms/File-Host/blob/main/document.md
 
 # Contributors
 
