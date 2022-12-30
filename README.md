@@ -32,8 +32,6 @@ This is file direct downloader PHP Script
 
 # Contributors
 
-@sacms
-
 @imsam304
 
 # Join Telegram Channel
@@ -44,10 +42,10 @@ https://t.me/fhserver
 
 https://miyadrive.my.id/
 
-# Contact Us
-
-Telegram :- https://t.me/expertskb
-
 # Installation Guideline
 
 https://raw.githubusercontent.com/sacms/File-Host/main/readme.txt
+
+# Note
+
+Here is the website I worked on SDK here basically from their API I made a separate website for those who can't and know better this project can be used again if time is short. This site is not mine, I am just the sdk creator, and telegram channels are not my original company
