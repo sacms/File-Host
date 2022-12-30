@@ -48,6 +48,10 @@ China
 
 https://github.com/sacms/File-Host/blob/main/document.md
 
+# Warning
+
+Don't use free hosting for this project , you do not agree then you can seen suspended your host and all file is gone , no way to back this file.
+
 # Contributors
 
 @imsam304
