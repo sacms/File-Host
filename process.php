@@ -9,7 +9,7 @@ if( !empty($_POST['my-link']) ){
         
         $username = "Example"; // Enter Your Name
 	
-	$uri = base64_decode("aHR0cHM6Ly9taXlhZHJpdmUubXkuaWQvc2VydmVyL2NyZWF0ZS5waHA=");
+	$uri = base64_decode("https://api.filekit.xyz/server/create.php");
 	
  $link = $uri.'?user='.$username.'&go='.$link;
         
