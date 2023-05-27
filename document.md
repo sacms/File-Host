@@ -1,10 +1,10 @@
 # Intruduction
 
-https://miyadrive.my.id/useapi.php
+https://api.filekit.xyz/useapi.php
 
 # Create a new link with my file
 
-http://miyadrive.my.id/api.php?create&go=[LINK]
+http://api.filekit.xyz/api.php?create&go=[LINK]
 
 Change [LINK] with your link original link
 
@@ -14,6 +14,6 @@ or add ownership license &user=[YOUR COMPANY NAME] to file info view json code
 
 # File information json
 
-http://miyadrive.my.id/api.php?json&id=[FILE ID]
+http://api.filekit.xyz/api.php?json&id=[FILE ID]
 
 Change [FILE ID] with maked id VJd73wKrY0, 1234567890 or 09RTcGZkLO
