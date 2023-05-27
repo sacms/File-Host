@@ -6,7 +6,7 @@ This is file direct downloader PHP Script
 
 Creation Date : 17 Jun, 2022
 
-Last Modify : 30 Dec, 2022
+Last Modify : 27 May, 2023
 
 # Supported Hosts / Server 
 
@@ -16,7 +16,7 @@ Last Modify : 30 Dec, 2022
 
 3. Yandex.com
 
-4. Send.cm (Only video supported)
+4. Send.cm (Only video supported) (Offline)
 
 5. Bayfiles.com
 
@@ -24,7 +24,7 @@ Last Modify : 30 Dec, 2022
  
 7. Dropbox.com
 
-8. Zippyshare.com
+8. Zippyshare.com (Defunct)
 
 9. Openload.cc
 
