@@ -5,3 +5,13 @@ CSS problem fixed and javascript
 7.3
 
 New Service Added + javascript & CSS fixing
+
+7.4
+
+Error fix
+
+7.5
+
+Bug Fix
+New server added
+offline host removed
