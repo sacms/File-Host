@@ -3,7 +3,7 @@
 if (!empty($_GET['id'])) {
 
 $id = $_GET['id'];
-$uri = base64_decode('aHR0cHM6Ly9taXlhZHJpdmUubXkuaWQvc2VydmVyL2pzb24ucGhwPw==');
+$uri = base64_decode('aHR0cHM6Ly9hcGkuZmlsZWtpdC54eXovc2VydmVyL2pzb24ucGhwPw==');
 $con = file_get_contents($uri.'id='.$id);
 
  $data = json_decode($con); 
